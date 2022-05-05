@@ -12,6 +12,7 @@
     "JavaScript",
     "TypeScript"
   ],
+  "icon": "images/js-essentials.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/kagklis/js-essentials.git"
