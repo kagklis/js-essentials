@@ -1,6 +1,6 @@
 # JS Essentials
 
-JS Essentials is a bare minimum collection of extensions to make your life easier, speed up your development process, and and your team's coding practices and rules more consistent.
+JS Essentials is a bare minimum collection of extensions to make your life easier, speed up your development process, and make your team's coding practices and rules more consistent.
 
 ## Installation
 
